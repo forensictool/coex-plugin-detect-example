@@ -1,0 +1,9 @@
+TEMPLATE = lib
+TARGET = coex-plugin-detect-example
+DESTDIR = bin/
+# INCLUDEPATH += ../../include/
+OBJECTS_DIR = tmp/
+QT -= gui
+CONFIG += dll
+SOURCES += src/example.cpp
+HEADERS += src/example.h
