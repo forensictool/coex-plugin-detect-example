@@ -12,7 +12,7 @@ In future: just install latest version of coex-core with sources
 
 ## Clean and Build
 
-	`./build.sh`
+	`./rebuild.sh`
 
 
 
